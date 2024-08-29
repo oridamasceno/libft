@@ -1,5 +1,7 @@
 # libft
 
+![DARXHFYU3BH3DBRA5KFUTATZVE](https://github.com/user-attachments/assets/a11a52ef-a2d7-4871-8daf-c675a065de88)
+
 After completing the basecamp, this marks the first challenge in the 42 course. It involves creating a C language library that can be useful in future projects.
 
 You'll often find yourself performing similar tasks like memory allocation, data copying, string printing, character counting, and more. This can become repetitive, and that's where the libft library comes in, providing a solution for recurring tasks.
@@ -60,5 +62,3 @@ At first glance, this project may seem extensive, but you'll notice that many of
 - [`ft_lstclear`](ft_lstclear.c)	- deletes and free list.
 - [`ft_lstiter`](ft_lstiter.c)	- applies a function to each element of a list.
 - [`ft_lstmap`](ft_lstmap.c)	- applies a function to each element of a list.
-
-![DARXHFYU3BH3DBRA5KFUTATZVE](https://github.com/user-attachments/assets/a11a52ef-a2d7-4871-8daf-c675a065de88)
