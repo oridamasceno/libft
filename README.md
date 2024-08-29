@@ -6,8 +6,6 @@ You'll often find yourself performing similar tasks like memory allocation, data
 
 At first glance, this project may seem extensive, but you'll notice that many of the required functions use a similar logic, and sometimes even the same approach as functions developed during the basecamp.
 
-# Libft Functions
-
 ### Functions from `<ctype.h>`
 
 - [`ft_isalpha`](ft_isalpha.c)	- checks  for  an  alphabetic  character.
