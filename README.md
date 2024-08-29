@@ -2,7 +2,7 @@
 
 ![DARXHFYU3BH3DBRA5KFUTATZVE](https://github.com/user-attachments/assets/a11a52ef-a2d7-4871-8daf-c675a065de88)
 
-After completing the basecamp, this marks the first challenge in the 42 course. It involves creating a C language library that can be useful in future projects.
+After completing the piscine, this marks the first challenge in the 42 course. It involves creating a C language library that can be useful in future projects.
 
 You'll often find yourself performing similar tasks like memory allocation, data copying, string printing, character counting, and more. This can become repetitive, and that's where the libft library comes in, providing a solution for recurring tasks.
 
