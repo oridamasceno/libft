@@ -62,3 +62,6 @@ At first glance, this project may seem extensive, but you'll notice that many of
 - [`ft_lstclear`](ft_lstclear.c)	- deletes and free list.
 - [`ft_lstiter`](ft_lstiter.c)	- applies a function to each element of a list.
 - [`ft_lstmap`](ft_lstmap.c)	- applies a function to each element of a list.
+
+## Status
+Finished: 2023-11-05. Grade: 125/100.
