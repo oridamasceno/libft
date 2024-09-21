@@ -63,5 +63,8 @@ At first glance, this project may seem extensive, but you'll notice that many of
 - [`ft_lstiter`](ft_lstiter.c)	- applies a function to each element of a list.
 - [`ft_lstmap`](ft_lstmap.c)	- applies a function to each element of a list.
 
-## Status
+## ✅ Status
 Finished: 2023-11-05. Grade: 125/100.
+
+## ⚠️ Keep it in mind.
+Don't copy, make your own code. My repositories are for understanding and will not necessarily be accepted by the "norminette".
