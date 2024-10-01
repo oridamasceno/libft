@@ -66,5 +66,5 @@ At first glance, this project may seem extensive, but you'll notice that many of
 ## ✅ Status
 Finished: 2023-11-05. Grade: 125/100.
 
-## ⚠️ Keep it in mind.
+## 🤔 Keep it in mind
 Don't copy, make your own code. My repositories are for understanding and will not necessarily be accepted by the "norminette".
